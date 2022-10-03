@@ -1,6 +1,6 @@
 {
   "name": "@openfeature/go-feature-flag-provider",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "type": "commonjs",
   "peerDependencies": {
     "@openfeature/js-sdk": "^0.4.0"
